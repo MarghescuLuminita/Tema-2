@@ -1,0 +1,9 @@
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\UniversityTests.dll
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\UniversityTests.pdb
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\University.exe
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\MySql.Data.dll
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\bin\Debug\University.pdb
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\obj\Debug\UniversityTests.csprojResolveAssemblyReference.cache
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\obj\Debug\UniversityTests.dll
+C:\Users\lumi_\Desktop\Miha\University\UniversityTests\obj\Debug\UniversityTests.pdb

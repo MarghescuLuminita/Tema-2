@@ -1,0 +1,27 @@
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\bin\Debug\University.exe.config
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\bin\Debug\University.exe
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\bin\Debug\University.pdb
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.Form1.resources
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.Properties.Resources.resources
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.exe
+E:\An III\Sem II\PS\Laborator 2\Tema 2\University\University\obj\Debug\University.pdb
+C:\Users\Ela\Desktop\University\University\obj\Debug\University.Form1.resources
+C:\Users\Ela\Desktop\University\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\Ela\Desktop\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+C:\Users\Ela\Desktop\University\University\bin\Debug\University.exe.config
+C:\Users\Ela\Desktop\University\University\bin\Debug\University.exe
+C:\Users\Ela\Desktop\University\University\bin\Debug\University.pdb
+C:\Users\Ela\Desktop\University\University\bin\Debug\MySql.Data.dll
+C:\Users\Ela\Desktop\University\University\obj\Debug\University.exe
+C:\Users\Ela\Desktop\University\University\obj\Debug\University.pdb
+C:\Users\lumi_\Desktop\Miha\University\University\bin\Debug\University.exe.config
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.exe
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.pdb
+C:\Users\lumi_\Desktop\Miha\University\University\bin\Debug\University.exe
+C:\Users\lumi_\Desktop\Miha\University\University\bin\Debug\University.pdb
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.Form1.resources
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\lumi_\Desktop\Miha\University\University\obj\Debug\University.csproj.GenerateResource.Cache
